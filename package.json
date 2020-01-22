@@ -1,0 +1,19 @@
+{
+  "name": "cypress_docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shabbirshirazi/cypress_playground.git"
+  },
+  "author": "shabbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shabbirshirazi/cypress_playground/issues"
+  },
+  "homepage": "https://github.com/shabbirshirazi/cypress_playground#readme"
+}
